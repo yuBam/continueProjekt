@@ -1,0 +1,300 @@
+{
+    "anims": [
+        {
+            "key": "attack_all",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "attack_040"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_054"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_041"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_042"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_043"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_044"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_045"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_046"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_047"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_048"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_049"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_050"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_051"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_052"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_053"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_055"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_056"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_057"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_058"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_059"
+                }
+            ]
+        },
+        {
+            "key": "attack_3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "attack_052"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_053"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_055"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_056"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_057"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_058"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_059"
+                }
+            ]
+        },
+        {
+            "key": "attack_2",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "attack_045"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_046"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_047"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_061"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_048"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_049"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_050"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_051"
+                }
+            ]
+        },
+        {
+            "key": "attack",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "attack_040"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_054"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_041"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_042"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_043"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_044"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_055"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_056"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_057"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_058"
+                },
+                {
+                    "key": "death",
+                    "frame": "attack_059"
+                }
+            ]
+        },
+        {
+            "key": "move1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "move_071"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_072"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_073"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_074"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_071"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_072"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_073"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_074"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_071"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_072"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_073"
+                },
+                {
+                    "key": "death",
+                    "frame": "move_074"
+                }
+            ]
+        },
+        {
+            "key": "idle1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "idle_000"
+                },
+                {
+                    "key": "death",
+                    "frame": "idle_001"
+                },
+                {
+                    "key": "death",
+                    "frame": "idle_003"
+                },
+                {
+                    "key": "death",
+                    "frame": "idle_002"
+                }
+            ]
+        }
+    ]
+}

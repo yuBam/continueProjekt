@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "slime",
+                    "frame": "slime-move-0"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-move-1"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-move-2"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-move-3"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "slime",
+                    "frame": "slime-idle-0"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-idle-1"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-idle-2"
+                },
+                {
+                    "key": "slime",
+                    "frame": "slime-idle-3"
+                }
+            ]
+        }
+    ]
+}

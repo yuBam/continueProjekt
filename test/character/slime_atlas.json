@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "slime-idle-0",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-idle-1",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 1,
+                "y": 27
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-idle-2",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 34,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-idle-3",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 34,
+                "y": 27
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-move-0",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 1,
+                "y": 53
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-move-1",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 34,
+                "y": 53
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-move-3",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 67,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        },
+        {
+            "filename": "slime-move-2",
+            "frame": {
+                "w": 32,
+                "h": 25,
+                "x": 67,
+                "y": 27
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.7
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
